@@ -1,0 +1,49 @@
+using System;
+					
+public class Program 
+{
+	public static void Main(string[] args)
+	{
+	 string itemname;
+		int i;
+		i = int.Parse( Console.ReadLine());
+		
+	Console.WriteLine("i: {3}",i);
+		Console.WriteLine("longsword , spear , Archer");
+		
+		Console.WriteLine("pls Enter your weapon name");
+		Console.WriteLine("Choose genre weapon");
+		if ( i = weapon );
+		{
+			Console.WriteLine("choose weapon");
+			Console.WriteLine("Open weapon");
+			}
+		
+		else {
+			Console.WriteLine("Showall");
+		}
+			
+		Console.WriteLine("search item");
+		if (Enter longsword)
+		{
+			Console.WriteLine("longsword");
+		}
+		
+		if (Enter spear)
+		{
+		Console.WriteLine("spear");
+		}
+		
+		if (Enter Archer)
+		Console.WriteLine("Archer");
+		}
+		else
+		{
+			Console.WriteLine("xxx");
+			Console.WriteLine("End");
+			
+		}
+	
+		Console.ReadLine());
+	}
+}
